@@ -1,14 +1,4 @@
-# Use Azul Zulu OpenJDK 22 as the base image
-FROM azul/zulu-openjdk:22
-
-# Set the working directory inside the container
-WORKDIR /app
-
-# Copy the JAR file (assuming it's named "app.jar") from the host to the container
-COPY build/libs/*.jar app.jar
-
-# Expose the port your application will listen on
+FROM openjdk:8-jdk-alpine
 EXPOSE 8080
-
-# Command to run the application when the container starts
-CMD ["java", "-jar", "app.jar"]
+ADD /build/libs/catalog-0.0.1-SNAPSHOT.jar catalog.jar
+ENTRYPOINT ["java", "-jar", "catalog.jar"]
