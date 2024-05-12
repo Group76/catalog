@@ -2,7 +2,7 @@ FROM azul/zulu-openjdk:17 as builder
 
 RUN mkdir -p /app/app/
 
-COPY build/libs/*.jar /app/app/application.jar
+COPY build/libs/catalog-api-0.0.1-SNAPSHOT.jar /app/app/application.jar
 
 ## Examples of variable usage
 ENV NR_APP_NAME "catalog-api"
