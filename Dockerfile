@@ -1,17 +1,14 @@
-ARG CI_REGISTRY
-ARG GOLDEN_IMG_TAG
-ARG GOLDEN_IMG_JAVA_VM
+# Use Azul Zulu OpenJDK 22 as the base image
+FROM azul/zulu-openjdk:22
 
-ARG DD_JAVA_AGENT
+# Set the working directory inside the container
+WORKDIR /app
 
-FROM azul/zulu-openjdk:22 as builder
+# Copy the JAR file (assuming it's named "app.jar") from the host to the container
+COPY build/libs/*.jar app.jar
 
-RUN mkdir -p /app/app/
+# Expose the port your application will listen on
+EXPOSE 8080
 
-COPY target/catalog-api.jar /app/app/application.jar
-
-ENV NR_APP_NAME "catalog-api"
-#
-EXPOSE 8080 8081
-#
-CMD ["java -Ddd.integration.kotlin_coroutine.experimental.enabled=true -Dspring.config.activate.on-profile=${SPRING_PROFILES_ACTIVE} -Duser.timezone=${TIME_ZONE} -jar /app/app/application.jar ${KUBERNETES_SERVICE_HOST:-notdefined}"]
+# Command to run the application when the container starts
+CMD ["java", "-jar", "app.jar"]
