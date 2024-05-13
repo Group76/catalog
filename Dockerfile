@@ -5,7 +5,7 @@ COPY . .
 RUN gradle build --no-daemon
 FROM azul/zulu-openjdk:22
 
-COPY /build/libs/*.jar /app/app/application.jar
+COPY /build/libs/catalog-api-0.0.1-SNAPSHOT.jar /app/app/application.jar
 
 EXPOSE 8080 8081
 
