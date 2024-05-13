@@ -1,4 +1,4 @@
-package com.group76.catalog.UrlMapping
+package com.group76.catalog.mapping
 
 object UrlMapping {
     object Version {

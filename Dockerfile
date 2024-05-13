@@ -1,12 +1,13 @@
-FROM azul/zulu-openjdk:17 as builder
+FROM gradle:7.3-jdk17 as builder
+WORKDIR /build
+COPY . .
 
-RUN mkdir -p /app/app/
+RUN gradle build --no-daemon
+FROM azul/zulu-openjdk:22
 
-COPY build/libs/catalog-api-0.0.1-SNAPSHOT.jar /app/app/application.jar
+COPY /build/libs/*.jar /app/app/application.jar
 
-## Examples of variable usage
-ENV NR_APP_NAME "catalog-api"
-#
 EXPOSE 8080 8081
-#
-CMD ["java $DD_JAVA_AGENT -Ddd.integration.kotlin_coroutine.experimental.enabled=true -Dspring.config.activate.on-profile=${SPRING_PROFILES_ACTIVE} -Duser.timezone=${TIME_ZONE} -jar /app/app/application.jar ${KUBERNETES_SERVICE_HOST:-notdefined}"]
+
+#CMD ["java -jar /app/app/application.jar"]
+CMD ["java", "-jar", "/app/app/application.jar"]

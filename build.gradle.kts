@@ -39,7 +39,7 @@ dependencies {
 		exclude(group = "commons-fileupload", module = "commons-fileupload")
 	}
 	implementation("io.github.openfeign:feign-okhttp:13.2.1")
-	implementation("commons-logging:commons-logging:1.3.1")
+//	implementation("commons-logging:commons-logging:1.3.1")
 
 	testImplementation("io.mockk:mockk:1.13.10")
 	testImplementation("org.junit.jupiter:junit-jupiter-api")
