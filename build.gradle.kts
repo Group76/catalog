@@ -1,10 +1,15 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
+val jacocoExclusions = arrayOf(
+	"com/group76/catalog/mapping/**",
+)
+
 plugins {
 	id("org.springframework.boot") version "3.2.5"
 	id("io.spring.dependency-management") version "1.1.4"
 	kotlin("jvm") version "1.9.23"
 	kotlin("plugin.spring") version "1.9.23"
+	jacoco
 }
 
 group = "com.group76"
@@ -58,4 +63,53 @@ tasks.withType<KotlinCompile> {
 
 tasks.withType<Test> {
 	useJUnitPlatform()
+}
+
+tasks.getByName<Jar>("jar") {
+	enabled = false
+}
+
+tasks.withType<JacocoReport> {
+	reports {
+		xml.required.set(true)
+	}
+
+	afterEvaluate {
+		classDirectories.setFrom(files(classDirectories.files.map {
+			fileTree(it).apply {
+				exclude(*jacocoExclusions)
+			}
+		}))
+	}
+
+	finalizedBy(tasks.jacocoTestCoverageVerification)
+}
+
+tasks.test {
+	finalizedBy(tasks.jacocoTestReport)
+}
+
+tasks.jacocoTestReport {
+	dependsOn(tasks.test)
+}
+
+tasks.withType<JacocoCoverageVerification> {
+	dependsOn(tasks.jacocoTestReport)
+
+	violationRules {
+		isFailOnViolation = false
+		rule {
+			limit {
+				minimum = BigDecimal(0.8)
+			}
+		}
+	}
+
+	afterEvaluate {
+		classDirectories.setFrom(files(classDirectories.files.map {
+			fileTree(it).apply {
+				exclude(*jacocoExclusions)
+			}
+		}))
+	}
 }
