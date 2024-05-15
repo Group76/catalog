@@ -13,7 +13,6 @@ import io.swagger.v3.oas.annotations.media.Schema
 import jakarta.validation.Valid
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
-import org.springframework.data.domain.Page
 import org.springframework.data.domain.Pageable
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.DeleteMapping
@@ -62,8 +61,13 @@ class ProductController(
     )
     fun createProduct(
         @Valid @RequestBody request: CreateProductRequest
-    ): ResponseEntity<GetProductResponse> {
-        return createUseCase.execute(request)
+    ): ResponseEntity<Any> {
+        val response = createUseCase.execute(request)
+
+        return ResponseEntity(
+            response.error ?: response.data,
+            response.statusCodes
+        )
     }
 
     @GetMapping(
@@ -94,8 +98,16 @@ class ProductController(
     fun getByType(
         pageable: Pageable,
         @PathVariable type: ProductType
-    ): ResponseEntity<Page<GetProductResponse>> {
-//        return productService.getProducts(pageable)
+    ): ResponseEntity<Any> {
+        val response = getByTypeUseCase.execute(
+            type,
+            pageable
+        )
+
+        return ResponseEntity(
+            response.error ?: response.data,
+            response.statusCodes
+        )
     }
 
     @GetMapping(
@@ -124,8 +136,13 @@ class ProductController(
     )
     fun getById(
         @PathVariable id: String
-    ): ResponseEntity<GetProductResponse> {
-//        return productService.getProducts(pageable)
+    ): ResponseEntity<Any> {
+        val response = getByIdUseCase.execute(id)
+
+        return ResponseEntity(
+            response.error ?: response.data,
+            response.statusCodes
+        )
     }
 
     @PutMapping(
@@ -154,8 +171,13 @@ class ProductController(
     )
     fun updateProduct(
         @Valid @RequestBody request: UpdateProductRequest
-    ): ResponseEntity<GetProductResponse> {
-//        return productService.getProducts(pageable)
+    ): ResponseEntity<Any> {
+        val response = updateUseCase.execute(request)
+
+        return ResponseEntity(
+            response.error ?: response.data,
+            response.statusCodes
+        )
     }
 
     @DeleteMapping(
@@ -185,6 +207,10 @@ class ProductController(
     fun deleteProduct(
         @PathVariable id: String
     ): ResponseEntity<Any> {
-//        return productService.getProducts(pageable)
+        val response = deleteUseCase.execute(id)
+        return ResponseEntity(
+            response.error,
+            response.statusCodes
+        )
     }
 }

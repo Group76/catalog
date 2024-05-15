@@ -7,10 +7,11 @@ import org.springframework.data.mongodb.core.mapping.Document
 @Document("#{@environment.getProperty('system.collection.product')}")
 data class ProductEntity (
     @Id
-    val id: String?,
+    val id: String? = null,
     val name: String,
+    val description: String,
     val price: Double,
-    val image: String,
+    val image: String?,
     val deleted: Boolean,
     val type: ProductType
 )

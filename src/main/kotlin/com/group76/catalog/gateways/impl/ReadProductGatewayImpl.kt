@@ -5,7 +5,6 @@ import com.group76.catalog.entities.enum.ProductType
 import com.group76.catalog.gateways.IReadProductGateway
 import com.group76.catalog.gateways.db.IProductRepository
 import org.springframework.data.domain.Page
-import org.springframework.data.domain.PageRequest
 import org.springframework.data.domain.Pageable
 import org.springframework.data.domain.Sort
 import org.springframework.data.mongodb.core.query.Criteria
@@ -40,6 +39,11 @@ class ReadProductGatewayImpl(
     }
 
     override fun nameExists(name: String): Boolean {
-        TODO("Not yet implemented")
+        val query = Query()
+            .addCriteria(
+                Criteria.where("name").`is`(name)
+            )
+
+        return repository.exists(query)
     }
 }

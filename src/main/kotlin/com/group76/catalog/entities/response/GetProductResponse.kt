@@ -6,6 +6,6 @@ data class GetProductResponse(
     val id: String,
     val name: String,
     val price: Double,
-    val image: String,
+    val image: String?,
     val type: ProductType
 )
