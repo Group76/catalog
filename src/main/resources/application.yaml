@@ -19,6 +19,16 @@ management:
 logging:
   config: classpath:logback.xml
 
+cloud:
+  aws:
+    region:
+      static: us-east-2
+  config:
+    server:
+      aws:
+        paramstore:
+          enabled: true
+
 spring:
   jackson:
     serialization:
@@ -26,7 +36,7 @@ spring:
       WRITE_DATES_WITH_ZONE_ID: true
   data:
     mongodb:
-      uri: ${PRODUCT_MONGODB_URI}
+      uri: ${/catalog-api/DATABASE_URI:mongodb://root:secret@localhost:27017/catalog}
       uuid-representation: standard
 
 system:
