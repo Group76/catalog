@@ -5,8 +5,9 @@ import com.group76.catalog.gateways.db.IProductRepository
 import org.springframework.data.mongodb.core.query.Criteria
 import org.springframework.data.mongodb.core.query.Query
 import org.springframework.data.mongodb.core.query.Update
+import org.springframework.stereotype.Component
 
-
+@Component
 class DeleteProductGateway(
     private val repository: IProductRepository
 ) : IDeleteProductGateway {

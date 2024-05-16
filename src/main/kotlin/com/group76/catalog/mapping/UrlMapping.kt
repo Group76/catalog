@@ -7,5 +7,6 @@ object UrlMapping {
 
     object Resource {
         const val PRODUCT = "/product"
+        const val PRODUCT_TEST = "/product-test"
     }
 }

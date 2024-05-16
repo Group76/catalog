@@ -6,6 +6,7 @@ import com.group76.catalog.entities.request.CreateProductRequest
 import com.group76.catalog.entities.response.BaseResponse
 import com.group76.catalog.entities.response.GetProductResponse
 import com.group76.catalog.gateways.ICreateProductGateway
+import com.group76.catalog.gateways.IReadProductGateway
 import com.group76.catalog.usecases.ICreateProductUseCase
 import org.slf4j.LoggerFactory
 import org.springframework.http.HttpStatus
@@ -14,6 +15,7 @@ import org.springframework.stereotype.Service
 @Service
 class CreateProductUseCaseImpl(
     private val createGateway: ICreateProductGateway,
+    private val readGateway: IReadProductGateway,
     private val cvCreateRequestToProductEntity: CVCreateRequestToProductEntity,
     private val cvProductEntityToGetProductResponse: CVProductEntityToGetProductResponse
 ) : ICreateProductUseCase {
@@ -21,6 +23,14 @@ class CreateProductUseCaseImpl(
 
     override fun execute(request: CreateProductRequest): BaseResponse<GetProductResponse> {
         try{
+            val nameExists = readGateway.nameExists(request.name)
+
+            if(nameExists) return BaseResponse(
+                data = null,
+                statusCodes = HttpStatus.BAD_REQUEST,
+                error = "Name already exists"
+            )
+
             val response = createGateway.insert(
                 cvCreateRequestToProductEntity.convert(request)
             )

@@ -71,7 +71,7 @@ class ProductController(
     }
 
     @GetMapping(
-        path = ["type"],
+        path = ["type/{type}"],
         name = "GetByType"
     )
     @Operation(
@@ -111,7 +111,8 @@ class ProductController(
     }
 
     @GetMapping(
-        name = "GetById"
+        name = "GetById",
+        path = ["{id}"]
     )
     @Operation(
         method = "GetProductById",
