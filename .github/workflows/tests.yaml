@@ -49,13 +49,6 @@ jobs:
           generate-branches-badge: true
           jacoco-csv-file: build/reports/jacoco/test/jacocoTestReport.csv
 
-      - name: Update Jacoco Badge
-        uses: test-room-7/action-update-file@v1
-        with:
-          file-path: .github/badges/jacoco.svg
-          commit-msg:  Update Jacoco Badge
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Log coverage percentage
         run: |
           echo "coverage = ${{ steps.jacoco.outputs.coverage }}"
