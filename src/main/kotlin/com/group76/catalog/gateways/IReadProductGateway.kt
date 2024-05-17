@@ -16,6 +16,11 @@ interface IReadProductGateway {
     ): Page<ProductEntity>
 
     fun nameExists(
+        id: String? = null,
         name: String
+    ): Boolean
+
+    fun productExists(
+        id: String
     ): Boolean
 }

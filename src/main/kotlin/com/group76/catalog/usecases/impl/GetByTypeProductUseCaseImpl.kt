@@ -1,5 +1,6 @@
 package com.group76.catalog.usecases.impl
 
+import com.group76.catalog.configuration.SystemProperties
 import com.group76.catalog.entities.converters.CVProductEntityToGetProductResponse
 import com.group76.catalog.entities.enum.ProductType
 import com.group76.catalog.entities.response.BaseResponse

@@ -25,7 +25,9 @@ class ReadProductGatewayImpl(
     ): Page<ProductEntity> {
         val query = Query()
             .addCriteria(
-                Criteria.where("type").`is`(type)
+                Criteria
+                    .where("type").`is`(type)
+                    .and("deleted").`is`(false)
             )
 
         return repository.findByFilter(
@@ -38,10 +40,29 @@ class ReadProductGatewayImpl(
         )
     }
 
-    override fun nameExists(name: String): Boolean {
+    override fun nameExists(
+        id: String?,
+        name: String
+    ): Boolean {
         val query = Query()
             .addCriteria(
-                Criteria.where("name").`is`(name)
+                Criteria
+                    .where("name").`is`("(?i)^$name$")
+                    .and("deleted").`is`(false)
+            )
+
+        if(id != null)
+            query.addCriteria(Criteria.where("_id").ne(id))
+
+        return repository.exists(query)
+    }
+
+    override fun productExists(id: String): Boolean {
+        val query = Query()
+            .addCriteria(
+                Criteria
+                    .where("_id").`is`(id)
+                    .and("deleted").`is`(false)
             )
 
         return repository.exists(query)

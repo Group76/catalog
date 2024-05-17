@@ -43,3 +43,5 @@ system:
   id-service: catalog-api
   collection:
     product: product
+  sns:
+    product: product

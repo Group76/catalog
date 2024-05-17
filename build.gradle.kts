@@ -44,7 +44,12 @@ dependencies {
 		exclude(group = "commons-fileupload", module = "commons-fileupload")
 	}
 	implementation("io.github.openfeign:feign-okhttp:13.2.1")
+
 	implementation("software.amazon.awssdk:ssm:2.25.53")
+	implementation("software.amazon.awssdk:sns:2.25.53")
+	implementation("software.amazon.awssdk:core:2.25.53")
+
+	implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.17.1")
 
 	testImplementation("io.mockk:mockk:1.13.10")
 	testImplementation("org.junit.jupiter:junit-jupiter-api")
@@ -99,14 +104,14 @@ tasks.jacocoTestReport {
 tasks.withType<JacocoCoverageVerification> {
 	dependsOn(tasks.jacocoTestReport)
 
-	violationRules {
-		isFailOnViolation = false
-		rule {
-			limit {
-				minimum = BigDecimal(0.8)
-			}
-		}
-	}
+//	violationRules {
+//		isFailOnViolation = false
+//		rule {
+//			limit {
+//				minimum = BigDecimal(0.8)
+//			}
+//		}
+//	}
 
 	afterEvaluate {
 		classDirectories.setFrom(files(classDirectories.files.map {
