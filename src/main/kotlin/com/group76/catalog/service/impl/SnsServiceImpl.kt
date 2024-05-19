@@ -2,7 +2,8 @@ package com.group76.catalog.service.impl
 
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import com.group76.catalog.entities.request.ProductMessageSns
-import com.group76.catalog.service.SnsService
+import com.group76.catalog.service.ISnsService
+import org.springframework.stereotype.Component
 import software.amazon.awssdk.auth.credentials.DefaultCredentialsProvider
 import software.amazon.awssdk.http.SdkHttpResponse
 import software.amazon.awssdk.regions.Region
@@ -10,7 +11,8 @@ import software.amazon.awssdk.services.sns.SnsClient
 import software.amazon.awssdk.services.sns.model.PublishRequest
 import software.amazon.awssdk.services.sns.model.Topic
 
-class SnsServiceImpl : SnsService {
+@Component
+class SnsServiceImpl : ISnsService {
 
     private var topicList = mutableListOf<Topic>()
     private val objectMapper = jacksonObjectMapper()

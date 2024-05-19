@@ -6,7 +6,7 @@ import com.group76.catalog.entities.converters.CVProductEntityToGetProductRespon
 import com.group76.catalog.entities.converters.CVProductEntityToSnsMessage
 import com.group76.catalog.gateways.ICreateProductGateway
 import com.group76.catalog.gateways.IReadProductGateway
-import com.group76.catalog.service.SnsService
+import com.group76.catalog.service.ISnsService
 import com.group76.catalog.usecases.impl.CreateProductUseCaseImpl
 import org.junit.jupiter.api.AfterEach
 import org.junit.jupiter.api.Assertions
@@ -29,7 +29,7 @@ class CreateProductUseCaseTests {
     private lateinit var  cvProductEntityToGetProductResponse: CVProductEntityToGetProductResponse
 
     @Mock
-    private lateinit var snsService: SnsService
+    private lateinit var snsService: ISnsService
 
     @Mock
     private lateinit var cvProductEntityToSnsMessage: CVProductEntityToSnsMessage

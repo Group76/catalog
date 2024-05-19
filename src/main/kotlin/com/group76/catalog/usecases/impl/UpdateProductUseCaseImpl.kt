@@ -10,7 +10,7 @@ import com.group76.catalog.entities.response.BaseResponse
 import com.group76.catalog.entities.response.GetProductResponse
 import com.group76.catalog.gateways.IReadProductGateway
 import com.group76.catalog.gateways.IUpdateProductGateway
-import com.group76.catalog.service.SnsService
+import com.group76.catalog.service.ISnsService
 import com.group76.catalog.usecases.IUpdateProductUseCase
 import org.slf4j.LoggerFactory
 import org.springframework.http.HttpStatus
@@ -22,7 +22,7 @@ class UpdateProductUseCaseImpl(
     private val updateGateway: IUpdateProductGateway,
     private val cvUpdateRequestToProductEntity: CVUpdateRequestToProductEntity,
     private val cvProductEntityToGetProductResponse: CVProductEntityToGetProductResponse,
-    private val snsService: SnsService,
+    private val snsService: ISnsService,
     private val cvProductEntityToSnsMessage: CVProductEntityToSnsMessage,
     private val systemProperties : SystemProperties
 ) : IUpdateProductUseCase {

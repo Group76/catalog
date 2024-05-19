@@ -3,7 +3,7 @@ package com.group76.catalog.service
 import com.group76.catalog.entities.request.ProductMessageSns
 import software.amazon.awssdk.http.SdkHttpResponse
 
-interface SnsService {
+interface ISnsService {
     fun publishMessage(
         topicArn: String,
         message: ProductMessageSns,
