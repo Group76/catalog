@@ -28,7 +28,6 @@ spring:
     mongodb:
       uri: {$DB_URI}
       uuid-representation: standard
-  profiles: production
 
 system:
   id-service: catalog-api
