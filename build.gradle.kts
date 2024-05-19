@@ -9,7 +9,7 @@ plugins {
 	id("io.spring.dependency-management") version "1.1.4"
 	kotlin("jvm") version "1.9.23"
 	kotlin("plugin.spring") version "1.9.23"
-	jacoco
+	id("jacoco")
 }
 
 group = "com.group76"
@@ -51,7 +51,7 @@ dependencies {
 
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.17.1")
 
-	testImplementation("io.mockk:mockk:1.13.10")
+	testImplementation("io.mockk:mockk:1.13.11")
 	testImplementation("org.junit.jupiter:junit-jupiter-api")
 	testImplementation("org.junit.jupiter:junit-jupiter-engine")
 	testImplementation("org.mockito.kotlin:mockito-kotlin:5.3.1")
@@ -98,20 +98,21 @@ tasks.jacocoTestReport {
 	dependsOn(tasks.test)
 	reports{
 		csv.required = true
+		xml.required = true
 	}
 }
 
 tasks.withType<JacocoCoverageVerification> {
 	dependsOn(tasks.jacocoTestReport)
 
-//	violationRules {
-//		isFailOnViolation = false
-//		rule {
-//			limit {
-//				minimum = BigDecimal(0.8)
-//			}
-//		}
-//	}
+	violationRules {
+		isFailOnViolation = false
+		rule {
+			limit {
+				minimum = BigDecimal(0.8)
+			}
+		}
+	}
 
 	afterEvaluate {
 		classDirectories.setFrom(files(classDirectories.files.map {

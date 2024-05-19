@@ -9,11 +9,11 @@ import com.group76.catalog.gateways.IReadProductGateway
 import com.group76.catalog.service.SnsService
 import com.group76.catalog.usecases.impl.CreateProductUseCaseImpl
 import org.junit.jupiter.api.AfterEach
+import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
 import org.mockito.Mock
 import org.mockito.MockitoAnnotations
-import org.wildfly.common.Assert
 
 class CreateProductUseCaseTests {
     @Mock
@@ -61,6 +61,6 @@ class CreateProductUseCaseTests {
 
     @Test
     fun`when`(){
-        Assert.assertTrue(true)
+        Assertions.assertTrue(true)
     }
 }
