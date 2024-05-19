@@ -36,7 +36,7 @@ spring:
       WRITE_DATES_WITH_ZONE_ID: true
   data:
     mongodb:
-      uri: ${/catalog-api/DATABASE_URI:mongodb://root:secret@localhost:27017/catalog}
+      uri: mongodb://3.139.72.14:27017/catalog
       uuid-representation: standard
 
 system:
