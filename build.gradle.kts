@@ -58,7 +58,6 @@ dependencies {
 	testImplementation("org.junit.jupiter:junit-jupiter-api")
 	testImplementation("org.junit.jupiter:junit-jupiter-engine")
 	testImplementation("org.mockito.kotlin:mockito-kotlin:5.3.1")
-	developmentOnly("org.springframework.boot:spring-boot-docker-compose")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
@@ -130,8 +129,6 @@ detekt {
 	ignoreFailures = true
 	buildUponDefaultConfig = true // preconfigure defaults
 	allRules = false // activate all available (even unstable) rules.
-//	config.setFrom("$projectDir/config/detekt.yml") // point to your custom config defining rules to run, overwriting default behavior
-//	baseline = file("$projectDir/config/baseline.xml") // a way of suppressing issues before introducing detekt
 }
 
 tasks.withType<Detekt>().configureEach {
