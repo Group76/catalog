@@ -3,7 +3,7 @@ WORKDIR /build
 COPY . .
 
 RUN gradle build --stacktrace
-FROM azul/zulu-openjdk:22
+FROM azul/zulu-openjdk:21
 
 COPY --from=builder /build/build/libs/*.jar /app/app/application.jar
 

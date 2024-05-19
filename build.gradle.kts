@@ -10,6 +10,7 @@ plugins {
 	kotlin("jvm") version "1.9.23"
 	kotlin("plugin.spring") version "1.9.23"
 	id("jacoco")
+	id("io.gitlab.arturbosch.detekt") version "1.23.6"
 }
 
 group = "com.group76"
