@@ -44,6 +44,9 @@ jobs:
       - name: Run test
         run: ./gradlew test
 
+      - name: Run Code Analysis
+        run: ./gradlew detekt
+
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:

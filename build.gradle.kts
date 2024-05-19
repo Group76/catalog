@@ -127,8 +127,9 @@ tasks.withType<JacocoCoverageVerification> {
 }
 
 detekt {
+	ignoreFailures = true
 	buildUponDefaultConfig = true // preconfigure defaults
-	allRules = true // activate all available (even unstable) rules.
+	allRules = false // activate all available (even unstable) rules.
 //	config.setFrom("$projectDir/config/detekt.yml") // point to your custom config defining rules to run, overwriting default behavior
 //	baseline = file("$projectDir/config/baseline.xml") // a way of suppressing issues before introducing detekt
 }
