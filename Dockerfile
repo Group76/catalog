@@ -9,4 +9,4 @@ COPY --from=builder /build/build/libs/*.jar /app/app/application.jar
 
 EXPOSE 8080 8081
 
-CMD ["java", "-jar", "/app/app/application.jar"]
+CMD ["java", "-jar", "/app/app/application.jar", "--spring.profiles.active=prod"]

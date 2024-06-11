@@ -28,6 +28,7 @@ class SnsServiceImpl : ISnsService {
         val publishRequest = PublishRequest.builder()
             .topicArn(topicArn)
             .message(messageJson)
+            .messageGroupId("product")
             .subject(subject)
             .build()
 

@@ -48,6 +48,7 @@ dependencies {
 	}
 	implementation("io.github.openfeign:feign-okhttp:13.2.1")
 
+	implementation("org.springframework.cloud:spring-cloud-starter:4.1.3")
 	implementation("org.springframework.cloud:spring-cloud-starter-aws-parameter-store-config:2.2.6.RELEASE")
 
 	implementation("software.amazon.awssdk:sns:2.25.53")

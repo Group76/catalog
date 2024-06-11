@@ -21,14 +21,14 @@ logging:
 
 spring:
   profiles:
-    active: local
+    active: prod
   jackson:
     serialization:
       WRITE_DATES_AS_TIMESTAMPS: false
       WRITE_DATES_WITH_ZONE_ID: true
   data:
     mongodb:
-      uri: mongodb://localhost:27017/catalog
+      uri: ${/config/catalog-api_prod/mongoUri}
       uuid-representation: standard
 
 system:
@@ -37,3 +37,11 @@ system:
     product: product
   sns:
     product: product.fifo
+
+aws:
+  paramstore:
+    enabled: true
+    name: catalog-api
+    prefix: /config
+    profileSeparator: _
+    failFast: false
