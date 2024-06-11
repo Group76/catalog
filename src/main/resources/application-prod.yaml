@@ -20,8 +20,6 @@ logging:
   config: classpath:logback.xml
 
 spring:
-  profiles:
-    active: prod
   jackson:
     serialization:
       WRITE_DATES_AS_TIMESTAMPS: false
