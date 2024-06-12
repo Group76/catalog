@@ -1,5 +1,6 @@
 package com.group76.catalog
 
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
 import org.springframework.boot.context.properties.ConfigurationPropertiesScan
@@ -12,6 +13,7 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 @ConfigurationPropertiesScan("com.group76.catalog")
 @ComponentScan("com.group76.catalog")
 @SpringBootApplication(exclude = [DataSourceAutoConfiguration::class])
+@EnableAutoConfiguration
 class CatalogApplication
 
 fun main(args: Array<String>) {
