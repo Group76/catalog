@@ -30,6 +30,7 @@ class SnsServiceImpl : ISnsService {
             .message(messageJson)
             .messageGroupId("product")
             .subject(subject)
+            .messageDeduplicationId(message.id)
             .build()
 
         val publishResponse = snsClient.publish(publishRequest)
