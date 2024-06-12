@@ -26,7 +26,7 @@ spring:
       WRITE_DATES_WITH_ZONE_ID: true
   data:
     mongodb:
-      uri: ${/config/catalog-api_prod/mongoUri}
+      uri: ${mongoUri}
       uuid-representation: standard
   config:
     import: "aws-parameterstore:"
