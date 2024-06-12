@@ -28,8 +28,6 @@ spring:
     mongodb:
       uri: ${mongoUri}
       uuid-representation: standard
-  config:
-    import: "aws-parameterstore:"
 
 system:
   id-service: catalog-api
