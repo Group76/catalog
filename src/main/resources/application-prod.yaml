@@ -30,7 +30,7 @@ spring:
       uuid-representation: standard
   config:
     import:
-      - aws-parameterstore:/config/catalog-api_prod/mongoUri
+      - aws-parameterstore:/config/catalog-api_prod/
 
 system:
   id-service: catalog-api
