@@ -15,10 +15,6 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 @SpringBootApplication(exclude = [DataSourceAutoConfiguration::class])
 class CatalogApplication
 
-@Value("\${mongoUri}")
-private val mongoUri: String? = null
-
 fun main(args: Array<String>) {
-	System.out.println("Param value is " + mongoUri);
 	runApplication<CatalogApplication>(*args)
 }

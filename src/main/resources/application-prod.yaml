@@ -38,11 +38,3 @@ system:
     product: product
   sns:
     product: product.fifo
-
-aws:
-  paramstore:
-    enabled: true
-    name: catalog-api
-    prefix: /config
-    profileSeparator: _
-    failFast: false
