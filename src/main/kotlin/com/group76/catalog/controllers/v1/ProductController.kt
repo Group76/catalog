@@ -96,12 +96,13 @@ class ProductController(
         ]
     )
     fun getByType(
-        pageable: Pageable,
+        @PathVariable page: Int = 0,
+        @PathVariable size: Int = 20,
         @PathVariable type: ProductType
     ): ResponseEntity<Any> {
         val response = getByTypeUseCase.execute(
             type,
-            pageable
+            Pageable.ofSize(size).withPage(page)
         )
 
         return ResponseEntity(

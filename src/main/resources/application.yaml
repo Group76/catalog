@@ -28,7 +28,7 @@ spring:
       WRITE_DATES_WITH_ZONE_ID: true
   data:
     mongodb:
-      uri: mongodb://localhost:27017/catalog
+      uri: mongodb://root:secret@localhost:27017/catalog?authSource=admin
       uuid-representation: standard
 
 system:

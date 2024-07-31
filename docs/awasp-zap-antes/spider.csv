@@ -1,0 +1,9 @@
+Processado,Método,URI,Marcadores
+true,GET,http://localhost:8081,Semear
+true,GET,http://localhost:8081/robots.txt,Semear
+true,GET,http://localhost:8081/sitemap.xml,Semear
+true,GET,http://localhost:8081/v1,Semear
+true,GET,http://localhost:8081/v1/product,Semear
+true,GET,http://localhost:8081/v1/product/type,Semear
+true,GET,http://localhost:8081/v1/product/type/MAIN?pageable=,Semear
+true,GET,http://localhost:8081/v1/product/id,Semear

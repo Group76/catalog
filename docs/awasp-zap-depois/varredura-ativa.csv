@@ -1,0 +1,1001 @@
+ID,Requisição de Timestamp,Timestamp de Resposta,Método,URL,Código,Motivo,RTT,Tamanho do Cabeçalho da Resposta,Tamanho do Corpo da Resposta
+2303,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2304,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2305,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2306,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2307,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2308,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2309,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,82
+2310,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,92
+2311,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,92
+2312,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,96
+2313,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,7,132,96
+2314,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,94
+2315,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,7,132,94
+2316,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,87
+2317,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,87
+2318,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,91
+2319,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,91
+2320,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,89
+2321,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,89
+2322,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,93
+2323,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,133,102
+2324,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,133,102
+2325,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,7,133,107
+2326,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,133,104
+2327,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,105
+2328,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,103
+2329,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,91
+2330,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,91
+2331,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,96
+2332,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,93
+2333,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,94
+2334,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,92
+2335,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,75
+2336,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,84
+2337,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,86
+2338,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,85
+2339,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,86
+2340,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,95
+2341,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,97
+2342,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,96
+2343,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,97
+2344,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2345,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2346,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,6,142,101
+2347,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2348,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2349,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2350,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2351,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2352,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2353,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2354,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,2,142,101
+2355,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,2,142,101
+2356,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2357,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2358,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2359,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2360,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2361,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2362,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2363,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2364,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,9,142,101
+2365,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,6,142,101
+2366,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,6,142,101
+2367,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2368,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2369,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2370,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2371,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2372,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2373,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2374,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2375,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2376,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2377,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:48 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2378,Tue Jul 30 21:12:48 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2379,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081,404,Not Found,7,228,89
+2381,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,91
+2380,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,8,228,91
+2382,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,4,175,108
+2383,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,24,132,70
+2384,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,16,137,92
+2385,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,11,106,0
+2386,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/%22%27,400,Bad Request,6,142,113
+2387,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/%22%27,404,Not Found,8,106,0
+2388,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/%22%27,404,Not Found,9,106,0
+2389,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/%3C%21--,400,Bad Request,6,142,115
+2390,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,25,132,71
+2391,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,19,137,91
+2393,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/%5D%5D%3E,400,Bad Request,8,142,116
+2394,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/%3C%21--,404,Not Found,11,106,0
+2392,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/%3C%21--,404,Not Found,13,106,0
+2395,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/%5D%5D%3E,404,Not Found,8,106,0
+2396,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/%5D%5D%3E,404,Not Found,9,106,0
+2397,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,14,137,91
+2398,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,19,132,70
+2399,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2400,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+2401,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,137,91
+2402,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2403,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2404,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,76
+2405,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,6,142,101
+2406,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,86
+2407,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+2408,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,87
+2409,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+2410,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,86
+2411,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2412,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+2413,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2414,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2415,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,132,75
+2416,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2417,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2418,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2419,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,70
+2420,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,71
+2421,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,70
+2422,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2423,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2424,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2425,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+2426,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,5,228,91
+2427,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+2428,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,6,106,0
+2429,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081,404,Not Found,2,228,89
+2430,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,7,228,91
+2431,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+2432,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,6,106,0
+2433,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+2434,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,DELETE,http://localhost:8081/latest/meta-data/,404,Not Found,16,229,106
+2435,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,11,228,91
+2436,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,13,138,103
+2437,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,5,175,108
+2438,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,DELETE,http://localhost:8081/latest/meta-data/,404,Not Found,8,229,106
+2439,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,25,132,82
+2440,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,7,106,0
+2441,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,DELETE,http://localhost:8081/latest/meta-data/,404,Not Found,12,229,106
+2442,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,18,138,103
+2443,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj+1738*8679+zj,404,Not Found,9,106,0
+2444,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj+8141*1687+zj,400,Bad Request,9,142,122
+2445,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj+7830*3592+zj,404,Not Found,9,106,0
+2446,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,132,82
+2447,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,DELETE,http://localhost:8081/latest/meta-data/,404,Not Found,7,229,106
+2448,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,14,138,104
+2449,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%7B4007*8323%7Dzj,400,Bad Request,7,142,126
+2450,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B6168*5824%7Dzj,404,Not Found,11,106,0
+2451,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B8753*7549%7Dzj,404,Not Found,8,106,0
+2452,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%24%7B5348*6220%7Dzj,400,Bad Request,6,142,129
+2453,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%24%7B3025*1523%7Dzj,404,Not Found,6,106,0
+2454,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%24%7B4870*4804%7Dzj,404,Not Found,6,106,0
+2455,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,104
+2456,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,17,132,83
+2457,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%23%7B8757*7294%7Dzj,400,Bad Request,7,142,129
+2458,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%23%7B2296*2845%7Dzj,404,Not Found,8,106,0
+2459,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%23%7B1314*6954%7Dzj,404,Not Found,8,106,0
+2460,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%7B%237148*2409%7Dzj,400,Bad Request,6,142,129
+2461,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%237028*4919%7Dzj,404,Not Found,7,106,0
+2462,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%238215*7806%7Dzj,404,Not Found,7,106,0
+2463,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,138,104
+2464,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%7B%407495*3130%7Dzj,400,Bad Request,8,142,129
+2465,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%409215*5519%7Dzj,404,Not Found,10,106,0
+2466,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%401856*9388%7Dzj,404,Not Found,11,106,0
+2467,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,23,132,83
+2468,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%7B%7B1649*7405%7D%7Dzj,400,Bad Request,7,142,132
+2469,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%7B3490*9287%7D%7Dzj,404,Not Found,6,106,0
+2470,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%7B2517*1624%7D%7Dzj,404,Not Found,7,106,0
+2471,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,16,138,104
+2472,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%7B%7B%3D5712*2679%7D%7Dzj,400,Bad Request,8,142,135
+2473,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%7B%3D1301*5950%7D%7Dzj,404,Not Found,7,106,0
+2474,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%7B%3D1739*4408%7D%7Dzj,404,Not Found,7,106,0
+2475,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,18,132,83
+2476,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%3C%25%3D4539*4960%25%3Ezj,400,Bad Request,8,142,135
+2477,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,14,138,105
+2478,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%3C%25%3D8125*6068%25%3Ezj,404,Not Found,7,106,0
+2479,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%3C%25%3D9344*1376%25%3Ezj,404,Not Found,7,106,0
+2480,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%23set%28%24x%3D3921*2355%29%24%7Bx%7Dzj,400,Bad Request,10,142,149
+2481,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%23set%28%24x%3D1972*6449%29%24%7Bx%7Dzj,404,Not Found,7,106,0
+2482,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%23set%28%24x%3D2399*4381%29%24%7Bx%7Dzj,404,Not Found,7,106,0
+2483,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,138,106
+2484,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%3Cp+th%3Atext%3D%22%24%7B4270*1119%7D%22%3E%3C%2Fp%3Ezj,400,Bad Request,6,142,165
+2485,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,20,132,83
+2486,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%3Cp+th%3Atext%3D%22%24%7B1860*7278%7D%22%3E%3C%2Fp%3Ezj,404,Not Found,8,106,0
+2487,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%3Cp+th%3Atext%3D%22%24%7B1961*5219%7D%22%3E%3C%2Fp%3Ezj,404,Not Found,11,106,0
+2488,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%7B%40math+key%3D%229367%22+method%3D%22multiply%22+operand%3D%229116%22%2F%7Dzj,400,Bad Request,7,142,189
+2489,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,14,138,106
+2490,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%40math+key%3D%229069%22+method%3D%22multiply%22+operand%3D%222909%22%2F%7Dzj,404,Not Found,13,106,0
+2491,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%40math+key%3D%223458%22+method%3D%22multiply%22+operand%3D%221386%22%2F%7Dzj,404,Not Found,12,106,0
+2492,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%7B%7B18700%7Cadd%3A63080%7D%7Dzj,400,Bad Request,9,142,142
+2493,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,22,132,84
+2494,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%7B11310%7Cadd%3A29250%7D%7Dzj,404,Not Found,9,106,0
+2496,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/type/zj%7B%7Bprint+%225599%22+%226550%22%7D%7Dzj,400,Bad Request,7,142,150
+2495,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%7B65870%7Cadd%3A90210%7D%7Dzj,404,Not Found,7,106,0
+2497,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,138,114
+2498,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%7Bprint+%226259%22+%223625%22%7D%7Dzj,404,Not Found,7,106,0
+2499,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,GET,http://localhost:8081/v1/product/zj%7B%7Bprint+%223597%22+%225978%22%7D%7Dzj,404,Not Found,6,106,0
+2500,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,138,124
+2501,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,85
+2502,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,6,138,150
+2503,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,85
+2504,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,138,111
+2505,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,93
+2506,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,138,119
+2507,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,91
+2508,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,133,103
+2509,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,91
+2510,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,133,129
+2511,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2512,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,90
+2513,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,91
+2514,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2515,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,98
+2516,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2517,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,87
+2518,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2519,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,87
+2520,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2521,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2522,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,88
+2523,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,91
+2524,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,88
+2525,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,18,137,91
+2526,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,20,132,88
+2527,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2528,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,88
+2529,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,6,137,91
+2530,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,91
+2531,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,89
+2532,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2533,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2534,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2535,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,90
+2536,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2537,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2538,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2539,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,90
+2540,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2541,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2542,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,98
+2543,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2544,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2545,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2546,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,133,108
+2547,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2548,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2549,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2550,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,133,134
+2551,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,98
+2552,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,95
+2553,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,98
+2554,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,133,103
+2555,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,99
+2556,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,99
+2557,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,75
+2558,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,99
+2559,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+2560,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,99
+2561,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,75
+2562,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,138,100
+2563,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,101
+2564,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,132,75
+2565,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,101
+2566,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+2567,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,109
+2568,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+2569,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,119
+2570,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,138,145
+2571,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+2572,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,138,106
+2573,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,75
+2574,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,138,114
+2575,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2576,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2577,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,16,132,75
+2578,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2579,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2580,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,16,132,75
+2581,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2582,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2583,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2584,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,132,75
+2585,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2586,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2587,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2588,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,132,75
+2589,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2590,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,6,142,101
+2591,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2592,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,16,132,75
+2593,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2594,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+2595,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2596,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2597,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2598,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2599,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2600,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2601,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2602,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2603,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,11,142,101
+2604,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2605,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2606,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2607,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2608,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2609,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:49 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,82
+2610,Tue Jul 30 21:12:49 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,82
+2611,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,83
+2612,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,83
+2613,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,83
+2614,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,83
+2615,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,84
+2616,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,85
+2617,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,85
+2618,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,93
+2619,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,133,103
+2620,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,129
+2621,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,7,132,90
+2622,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,98
+2623,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2624,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2625,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2626,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2627,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2628,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,2,142,101
+2629,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2630,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,2,142,101
+2631,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,2,142,101
+2632,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2633,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,8,142,101
+2634,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2635,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2636,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2637,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+2638,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,20,138,168
+2639,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,18,228,91
+2640,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,6,175,108
+2641,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,30,133,147
+2642,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,11,106,0
+2643,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,29,138,239
+2644,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%3C%23assign+ex%3D%22freemarker.template.utility.Execute%22%3Fnew%28%29%3E+%24%7B+ex%28%22sleep+15%22%29+%7D,400,Bad Request,9,186,215
+2645,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%3C%23assign+ex%3D%22freemarker.template.utility.Execute%22%3Fnew%28%29%3E+%24%7B+ex%28%22sleep+15%22%29+%7D,404,Not Found,13,106,0
+2646,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%3C%23assign+ex%3D%22freemarker.template.utility.Execute%22%3Fnew%28%29%3E+%24%7B+ex%28%22sleep+15%22%29+%7D,404,Not Found,11,106,0
+2647,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,25,133,218
+2648,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%23set%28%24engine%3D%22%22%29%0A%23set%28%24proc%3D%24engine.getClass%28%29.forName%28%22java.lang.Runtime%22%29.getRuntime%28%29.exec%28%22sleep+15%22%29%29%0A%23set%28%24null%3D%24proc.waitFor%28%29%29%0A%24%7Bnull%7D,400,Bad Request,8,186,327
+2649,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%23set%28%24engine%3D%22%22%29%0A%23set%28%24proc%3D%24engine.getClass%28%29.forName%28%22java.lang.Runtime%22%29.getRuntime%28%29.exec%28%22sleep+15%22%29%29%0A%23set%28%24null%3D%24proc.waitFor%28%29%29%0A%24%7Bnull%7D,404,Not Found,9,106,0
+2650,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,19,138,177
+2651,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%7B%7B%3D+global.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29+%7D%7D,400,Bad Request,9,186,226
+2652,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%23set%28%24engine%3D%22%22%29%0A%23set%28%24proc%3D%24engine.getClass%28%29.forName%28%22java.lang.Runtime%22%29.getRuntime%28%29.exec%28%22sleep+15%22%29%29%0A%23set%28%24null%3D%24proc.waitFor%28%29%29%0A%24%7Bnull%7D,404,Not Found,15,106,0
+2653,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%3C%25%3D+global.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29%25%3E,400,Bad Request,6,186,225
+2654,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%7B%7B%3D+global.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29+%7D%7D,404,Not Found,13,106,0
+2655,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%7B%7B%3D+global.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29+%7D%7D,404,Not Found,10,106,0
+2656,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,15,138,176
+2657,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,25,133,156
+2658,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%23%7Bglobal.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29%7D,400,Bad Request,8,186,218
+2659,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%3C%25%3D+global.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29%25%3E,404,Not Found,7,106,0
+2660,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%3C%25%3D+global.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29%25%3E,404,Not Found,9,106,0
+2661,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%7B%7Brange.constructor%28%22return+eval%28%5C%22global.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29%5C%22%29%22%29%28%29%7D%7D,400,Bad Request,5,186,285
+2662,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,138,173
+2663,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%23%7Bglobal.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29%7D,404,Not Found,7,106,0
+2664,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,133,155
+2665,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%23%7Bglobal.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29%7D,404,Not Found,7,106,0
+2666,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%7B%7B%22%22.__class__.__mro__%5B1%5D.__subclasses__%28%29%5B157%5D.__repr__.__globals__.get%28%22__builtins__%22%29.get%28%22__import__%22%29%28%22subprocess%22%29.check_output%28%22sleep+15%22%29%7D%7D,400,Bad Request,8,186,310
+2667,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,138,220
+2668,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%7B%7Brange.constructor%28%22return+eval%28%5C%22global.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29%5C%22%29%22%29%28%29%7D%7D,404,Not Found,7,106,0
+2669,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%7B%7Brange.constructor%28%22return+eval%28%5C%22global.process.mainModule.require%28%27child_process%27%29.execSync%28%27sleep+15%27%29.toString%28%29%5C%22%29%22%29%28%29%7D%7D,404,Not Found,8,106,0
+2670,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%24%7B__import__%28%22subprocess%22%29.check_output%28%22sleep+15%22%2C+shell%3DTrue%29%7D,400,Bad Request,8,186,197
+2671,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%7B%7B%22%22.__class__.__mro__%5B1%5D.__subclasses__%28%29%5B157%5D.__repr__.__globals__.get%28%22__builtins__%22%29.get%28%22__import__%22%29%28%22subprocess%22%29.check_output%28%22sleep+15%22%29%7D%7D,404,Not Found,8,106,0
+2672,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%7B%7B%22%22.__class__.__mro__%5B1%5D.__subclasses__%28%29%5B157%5D.__repr__.__globals__.get%28%22__builtins__%22%29.get%28%22__import__%22%29%28%22subprocess%22%29.check_output%28%22sleep+15%22%29%7D%7D,404,Not Found,8,106,0
+2673,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,133,152
+2674,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,138,245
+2675,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%7B%7B__import__%28%22subprocess%22%29.check_output%28%22sleep+15%22%2C+shell%3DTrue%29%7D%7D,400,Bad Request,6,186,200
+2676,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%24%7B__import__%28%22subprocess%22%29.check_output%28%22sleep+15%22%2C+shell%3DTrue%29%7D,404,Not Found,6,106,0
+2677,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%24%7B__import__%28%22subprocess%22%29.check_output%28%22sleep+15%22%2C+shell%3DTrue%29%7D,404,Not Found,6,106,0
+2678,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%3C%25%3D%25x%28sleep+15%29%25%3E,400,Bad Request,7,142,140
+2679,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%7B%7B__import__%28%22subprocess%22%29.check_output%28%22sleep+15%22%2C+shell%3DTrue%29%7D%7D,404,Not Found,6,106,0
+2680,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%7B%7B__import__%28%22subprocess%22%29.check_output%28%22sleep+15%22%2C+shell%3DTrue%29%7D%7D,404,Not Found,6,106,0
+2681,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,17,133,199
+2682,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,138,156
+2683,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%23%7B%25x%28sleep+15%29%7D,400,Bad Request,9,142,134
+2684,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%3C%25%3D%25x%28sleep+15%29%25%3E,404,Not Found,7,106,0
+2685,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%3C%25%3D%25x%28sleep+15%29%25%3E,404,Not Found,7,106,0
+2686,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,157
+2687,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/type/%7Bsystem%28%22sleep+15%22%29%7D,400,Bad Request,8,142,139
+2688,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%23%7B%25x%28sleep+15%29%7D,404,Not Found,5,106,0
+2689,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%23%7B%25x%28sleep+15%29%7D,404,Not Found,8,106,0
+2690,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,133,224
+2691,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%7Bsystem%28%22sleep+15%22%29%7D,404,Not Found,6,106,0
+2692,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/v1/product/%7Bsystem%28%22sleep+15%22%29%7D,404,Not Found,6,106,0
+2693,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,105
+2694,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,135
+2695,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,6,138,103
+2696,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,6,138,110
+2697,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,136
+2698,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2699,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,84
+2700,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2701,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2702,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,82
+2703,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,91
+2704,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,89
+2705,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,91
+2706,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,152
+2707,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,6,137,91
+2708,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,6,137,91
+2709,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,223
+2710,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2711,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,161
+2712,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2713,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,5,137,91
+2714,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,133,160
+2715,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2716,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,157
+2717,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2718,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2719,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,204
+2720,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2721,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2722,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2723,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,229
+2724,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2725,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,6,142,101
+2726,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2727,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,25,133,140
+2728,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2729,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2730,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2731,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2732,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,19,133,141
+2733,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,6,142,101
+2734,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,138,163
+2735,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,19,132,89
+2736,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,16,138,234
+2737,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,132,87
+2738,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,138,172
+2739,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,138,171
+2740,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,19,132,94
+2741,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,138,168
+2742,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,17,132,75
+2743,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,138,215
+2744,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,138,240
+2745,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,75
+2746,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,138,151
+2747,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,17,132,75
+2748,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,138,152
+2749,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,138,100
+2750,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,75
+2751,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,98
+2752,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,16,132,75
+2753,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,13,138,105
+2754,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2755,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2756,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,16,132,75
+2757,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2758,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2759,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+2760,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,9,142,101
+2761,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,6,142,101
+2762,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2763,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,132,75
+2764,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2765,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2766,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2767,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+2768,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2769,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2770,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+2771,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,75
+2772,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,75
+2773,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2774,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2775,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2776,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2777,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2778,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2779,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2780,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2781,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2782,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2783,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2784,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2785,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,133,147
+2786,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,218
+2787,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,156
+2788,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,133,155
+2789,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,152
+2790,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,199
+2791,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,224
+2792,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,135
+2793,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,133,136
+2794,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,84
+2795,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,82
+2796,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,89
+2797,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2798,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2799,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2800,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2801,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2802,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2803,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2804,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2805,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2806,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2807,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2808,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2809,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081,404,Not Found,5,228,89
+2810,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,DELETE,http://localhost:8081/v1/product/,404,Not Found,7,229,100
+2811,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:50 BRT 2024,GET,http://localhost:8081/,404,Not Found,2,228,89
+2812,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product/,404,Not Found,9,229,100
+2813,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product/,404,Not Found,10,229,100
+2814,Tue Jul 30 21:12:50 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,5,228,91
+2815,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+2816,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/,404,Not Found,8,228,92
+2817,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,6,106,0
+2818,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/,404,Not Found,5,229,100
+2819,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/,404,Not Found,6,229,105
+2820,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/id/,404,Not Found,6,229,103
+2821,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN/,404,Not Found,6,229,110
+2822,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+2823,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,8,228,91
+2824,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,5,175,108
+2825,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,6,106,0
+2826,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,25,139,2188
+2827,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,35,134,2167
+2828,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/NwbiSEoAnITVYLOtnlIVyiODHBcmWwlhjVfKatPrsCHBTqmZTicxCpXWFXWIKuWGKxCtRxlqptXEVXelTHKTfCCUBLsJDLSdDLfIqRlawyiuoiVVsQPFJCyAjZladaPqYiyKsNleTJvyretdIkvnjpyvZIulxPCuxkiDwpIwyNyKPjVdeeVKoWyAZQWwZShNrCyhuPsQcXLsqxrDrBAyBmtrnDwHyQrlTwDxLdglgCOXjogtryDdDUBopxdYUSimVAQyonWIhjOMKnIskcpwGhXhVLVKdcShWprnUPIZrYnWTUTiCPtcMJwkEJEpAeQxlkCbVxBejrZodYoxXDOkgGlnVTndthuxauyoPiEUYWkYOoeZlynkFnMAXQjtqASqrJCSsiBvdMrnfdWAxMtiLhhhTHfQqjNugqulgwFgtMuaKlwevlELGPxGTDNvRFPcMgnVjSrPONIgAGkdasfSiNSnKtwWmQvBubGWsiEfcINRcgxMENuRDPDPblRHdJKaurSVbblPoafnJFvenIvDaOdItnqogcpRIAREQGPDkRKnOoNdUuFayBFlEwdAGaeFVePKprmVWYiayFrZmGofDLWZZIwalEKPGLPoJrbJHojDXRlolLpohUlWsIqcYCHxFrOUTuFdqMBolyOHtkywnHDOvuwGGCBcEOimkyJmTdtVAJtcgXsXEJsCRjLdKbFhaAENLyrNhwbOtSfApqRGrYgxyHFspgFnCBRRIGFTNQMXkktcxnNnUWOoJjcnlVtCZxCGcneCTgPannsRhicWRygtwxdIyCabcORcqwVTZyRGtECbZugjoprkjslJwOwlmlFJquybEXGiEvVrMtBQNsjaZUOBctgtrdMlNfXQrulKNPtKtcCIhaQFWCErqljkmNCKPnqiTYOCaUwPCTOuScxCDEBdPQlfEiVIgHJcnWydYYPAoBlVyyOuZyVlmxwxdSJPoYSXwOnErJpUvdjiNGJvLqjkVwGWCIDQhYaLXUPRkiVevBoqlRALZvoQlQggbeQAjOanmuYwlYreDKeKkNVDDhpvIANRaySywolCIUmnviZtSxVQPdqjXahbtuuTwPXYrqYHfILdaYuoHiCxCbUTrvicZDWFbQQUvQQKwMGiwTwPSxxScuHNfauAMbmPywaGiajixmaZFKdUYXcFvuMVqGQmZoHiNFtwQvfQxOVYarBgpdikQeyBNjAAqhnOpVyZsecQFjXIDgoerjvGRlkrQlGWTeCPtjHTYThLYdQJZvvLpqLfKkMjlGgtjXofvTGmbBPZmecXoNVSbcyJIwTMODsaFatbVLZKPtAXEMFtqBurfgXInwQjQkUaeijJVhSwIWsWdXrgiXThCXjcJatNwvskSBpaPQynAPFrSWMFVtgAbwkbIYmKOKdJNPPTTpHvSehQveBjlTTOOebVoJnLKeYOoKRcklwWtBCcJMZjiXkulLhGFMDOJCCJnMhTuwDaGZUxXyOxPPripHwxoPcoOmiyttnOpWEUKtYESfYObCKLYkFHduEZdTpdpVjkFKDuyAYKvtCTnkkZHABEZLjrcyJWWEOFgUtukZJmiOlBxoUNsuRcZQrUWyBrWfkesJDSLDcqgUjyZTnKYSMmSTQQCRJITDaUsMyfxXUkxMPVkCdEkyHwNtemXPfcvFmgEoVqcHMvLtPoOXFbwxWmSlgpHkecTeRxXwBaAwjKPVZcVUuJTCbgdtLHeiciPfArogQChJyixroeBuiTUeTtPwQEjMahoxBEgvIBmxjPJorYOkMobCrNLqCPwjKvudWbeuwTZtMguLLPDNwrlnEQnPiHCHDNZRFjsMqZEGXOqFhokeEPWWTDEyOxwPaLFkkydPJeYlBqYEDRJDrYWnLDVJdwnERcfGdcMioHaItBmqxCXlrxcImAghbvUHFEGQaAUtNIgiIxvmrIFHuPYuDQFrTUeibEZQyLYcdyiqsqHqvPrDbsNOXwonLNAHNArSLMJPFESRhgjSonUpEIeIAKDfucvykWPZnxPwqiajTFsWHuulaBIeZkefVytPcaNZGcdhTukLhwAswhFRUuCTKBsqWgpHyHrsvMctNKpMxWbhGWaERrjfTO,400,Bad Request,14,143,2207
+2829,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/cRDieljNTJQQUFWLdUrFYPOVKLhoaqaeQoTQwarQvIwuipsViEatCiBMLqqyqjTyFVMDNwuSvqOoHuuHOwTRqnmdTjidKmhyqKLyBfUIcesGavCPIZiXmCtQJIJLYKsSDXdnBPxHfcLBHijieKLFLKxlRUuFQZxpWOhdBxVEMpVLQfwTtmiMiKZmvQOokegosGLZqjNHptGqAhhNQjhCpPAGFoxxjmYgJWVaKGPnYCFqgtdDliNClHPNBJEGFWiKuKKagugAptqTuyMlccVykdBxwDQsickxBsCojxgAuckgfgGelioBPFpLGWfYOrsGgdKxLpHWwIVyIVoDeXaFhiMBKSZostMwcteQOhZDCXDwleGBNUhSkcjqqDxlSNVkQZZOlldnPWCZeodjabrlhEcmNlgmTtpTdVqgFhuDgKoJgdUbfgCMWmHIMGsdqQiTcpohybPfmmRqYOWaHkToAGqeuBcYcmboPYELVKthgFCkcVwwFVDIVXEHusaCJFvsWOrdSRpunjvaURqYpAGcBEexqjimNLjnmcTyGtvPBrXtwDxpNBlLIlqiZCTlfgMajSOpDWLAJnhKagrjOKhmqtEjITkMbGvDnYQsCQlWTSyfBDlUnSlfPLfFxTccYgXSFLIcnaWLoMXdlhIbMsfiJaBqrOWgJSZnWoJsSwCilJuvxgybMfkdMueSpCNJQbFZpmAIhDVXAvGUxrrhrDnVqtHGtMZEFwNGDcNbetirTjnHWOKSdxtoqjOVsMQwThJbimFIcyJMXtuuaJOZqeCsBDHUdeDQswKLFmeKJigikDIboEpIaQKtAKsZUyDaohuGZDqCtfNLexbIjMnKAprPRVWGBquuJLRcPwAsSrOBduyUasCJMNTmduUAgNInsnTufDEClMBEpMepDVWlTbwXoAluToIKWhlJWXWAvTURjmSkZDuLUUrcxKArjOaxriRxcyrAiJaFyqxNtdcVdpYOCBamowurYitEGxKswxUEiApKQUfuXlluVUasDGDLnfHtXSLUacYxjnZWuRfPobmhAdPNZYVeMfsOCFWDNkjdNYcZBaVClLXLYSGPGyJKeVXZcXwHPHiUGOlYRhLBcmUgeetqesPNiDuaXgitDmOLuVsnaHIJfhEKLqJxEaIFUkFafYaJCjWhJTywkjdEgkymSktqhyKblAWsaMfiDsVlPddFVnrDqQtdEPeeQllijEZAmGLVXTSODyeErrBphBJMuUQcOJxZEDbmZtIhkBddHMSJwVAODvnaRGlrLiKtEFTduxWgttBYPFsbjjyuUDtWXIUnihipAPqBtXFcTeTCWYETBvLieNTuKufCDTRZewggWABaJnlTsBpUdSwbvDwhyLVKJJLfOGRQYyQgLOGFxOWrLMCuZmkZmEpuZpOFoDBtLPcWAnHngoITAYcfPGZYIBBkaXbaGUqfmVmfLFWiJBFLsCBUhjfVUpAhwnLaSqEXnRiBugJAmHbKxPZHrLWyObRLhMppiCLRaoTgiLeksQQIevuiSxPRHTZdtdnWJMcxGyOAvnLtIdeSRBaclsBqNSlHWgNIvUyPlbBUBSukSnVSKXTSJdmApRDZmqECDKLauThbKQOluUEcInnlUUBmbdFJsJtKbikhbPhgrKtGWxVvyvJPwhCnjbGgXRkVitVTDNGRwvnoEjdCdNMmtkpCTewXCmacBuLVeNGcTsVIiAiHaTgrCSqmZfgXndbDgDfpQKCGTrYcaWCcBXvsqQjEutpsvXUyJbAyeMdunZViTZoKWgiWmgnZRnVDRGDfKdaePNfsRVdbJOKAsTXcoHCWqUMcOqCIPoJiAwloOBIpPoxpAbaybIqtNkswOIXOibCKAVlfblktwFpnBjZdpHbIeSFFJiDZHfPkNKkMRsjXDgavNHUHKwlBOKDGnsUwOCJbPNAukDPfLQlYanvZbOuKLPfLquqvuJiiTpiceoXZMMBAkxioxInsbIyotQpZDULmsOPIUjFdHAUZojhXCbNGlHGGksaJWtiaRrWVfPtrpSAvuYNknbthPfEQHIxgsmIEEkufIlSveSuTmKukXoXNijVkReMqZAcNJEKZwxfDKYGPdfpHOGgk,404,Not Found,18,106,0
+2830,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/AlqWOjdhowMBSQnXhbPLaHRIoCSyfHjVYFCbmcVJEpFyILcpiMCjwiaUEhUvYUtjrWfAkfVWlLPNfsIvHwfwYOsDQtNeuWpkCYDfhTmynBrVLZxgtAFLdHPHYBRDHSossFCCDdBkDIWSjFuYEmxviHrotDbVAAmaxDassLwZYEGlaITTtXBdVbOGskDoLPSQVlfNmXbotEyILSVydXxXfkZdENQIYfYWVqGqheJZmJwSVbLYdJMyOYcAHomoBxbxpCcMWMihVQdBGIggsGeHPNGkxGOEecOjXCupeppyFwaALtHZcWpCrAUHjIXjOHkdAmvqWlHHEMOdVGEaifYatFAMlojMxcWBXyrmNaPWJCwlVfvJCjIUIjDJdPQVbtdhHDsodVgCTMSGjaOJqooQIyIpFMavsQZDtpVvGJKAkLxiCfqoaLYUACEtbpCvTfXJmnByGfJueIwDbIHCppparxoytaUaCXEfmMPIZHwuecgTVJYEecnXBKTxTIOiTYtkZYJcPBMVPyMyTVVlBtuuWFdqMLRfDWCroJJFvoPucCsPHkEIVrfMxEaaEgKMREZmypvcCunpMLIqHKStfsqEytRDkNTXCfKfsxSnAQMyvYOSugOBwFvxAxiRkBFosCvWLNcGaOwgprsbtgIWDHbQQvSboqXkgXQGtZQmnSPMksfosbNbvFcJlXoFTkRYpwIvhVIjipSNYyFEQyxQZwsLBKJANaXjNrjHimWklMxHqyYpolWcjTYCINdelUFhkyEsIooYyrAnYNiXclWsAOOOMrbTFIFuPfvUONjulrtRZyTWDJDwPKiKOpDxnlFQDBvXLStytFlVEUDJRicYHkIHRslWqsJjVvsULbKhceKixhvikTjMWbVrLOhrxQBYHyFmExHRJxhZSTWUcljrLDhQbEfaPoTRsNtFJYCZIaCaOwwTalfsMpxTElXpuxjbGdBYcKrcTJlcrIWXPchLZtDqAbYSZHXYZFIBnMgVxuDaInrGMwIWQSEBNhAnbOAQVRaXxMScXKCGOMXbAjddkTRiEGTBNgLBumGFHMHuWMOLlvieRLYIfFQTnOWpBOYskgJbOLydRMwELjWYMyigldObZEwgJcugibTYbeqiHgRPpMZxZYTHSAtvcNphkpaYKTdQEwrFmuLYnmTrhagTyfgxqrsuVMZDEOdWjDCTkCAXBtnDdpIKUPTGgrJOLdUGrGPfatDYAoiglcueJVuUdCDAYVhiAaDBKsYeVZBQbdGJyWFpSfJicaRBRmyZrZnMLHpvFBQAvOTbcayGNHYqlYcFjFNsLErUAReKHnoqYFXgIcddkteNlRtariJTnZFgZMVBwpgrRhcOqtaSjmqxlxtNyHDOdCMCNuUXQobpiZICIqquNeyVMJDNdvSmardyhnZfstmvALhcCqwxvBMDVYUuhQqRaRNOIyNUxcJbOPEQmYyWdpKwHviINFMapBRUahdrPmhDLLIVSiDxjnqqNGJnKwBatOwOFAJMqWiZOdQqceeAisWWDlCZAsoeaoUHNmEtZSZaXmWYrgiRLKxFcyUlqjvoOMUkZaQBQTipJJikpxpyxwMGtOSsQhkmqVyYrHHCtoLPPNDiomRmwKHmmMnSyDsQaeDgwnksludSOyWYqXfPfnfHDgNYUquCemfWPkDgXtqqKsjTpFuliviMhsrXlRxhPyGrnrPyoTxBonIeLVnlsVTqohpKxQqMyMvrEZFpoGNDVDyQGtshHKUElyhhiMxuEcwXkRsdZBQcypHZUbgFwSRltCwcbjYrKnPXtDysyDsMGLgQpTZOUChuarNpZNPPuLajCulvrigCtoIZsFIbdGDrWuhpqPrhXkGwOXZcvMGcdkmaUZajjpAATTkrevOwgrCsevqFvPvntDMYyKUMwGyEllucDCygCbkhJNnNAtKnDgjbfIcXuVOFnNTlJCCKgGUBctDFvOtHmeuYWyldawuDSUaMXfvgGGeYJdYymipiLjJtrYECRwXarmVIvtZoHPDUXxIgriZOsukOGYgmKmIYSTSxgQXdSIOPQOJOoCwfKyZZlaDaOxmunxoTBYOsTDWRGaRpIBFuaNUxHaBfXSWiOnfp,404,Not Found,22,106,0
+2831,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,19,134,2172
+2832,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,25,137,91
+2833,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2834,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+2835,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,139,2183
+2836,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2837,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2838,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,134,2167
+2839,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2840,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+2841,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2842,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,6,228,91
+2843,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,70
+2844,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,4,175,108
+2845,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,4,106,0
+2846,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,173
+2847,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/ZAP,400,Bad Request,7,142,110
+2848,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,16,133,152
+2849,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/ZAP,404,Not Found,8,106,0
+2850,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/ZAP,404,Not Found,8,106,0
+2851,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,138,285
+2852,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/ZAP%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%0A,400,Bad Request,6,142,273
+2853,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/ZAP%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%0A,404,Not Found,6,106,0
+2854,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/ZAP%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%0A,404,Not Found,6,106,0
+2855,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/ZAP+%251%21s%252%21s%253%21s%254%21s%255%21s%256%21s%257%21s%258%21s%259%21s%2510%21s%2511%21s%2512%21s%2513%21s%2514%21s%2515%21s%2516%21s%2517%21s%2518%21s%2519%21s%2520%21s%2521%21n%2522%21n%2523%21n%2524%21n%2525%21n%2526%21n%2527%21n%2528%21n%2529%21n%2530%21n%2531%21n%2532%21n%2533%21n%2534%21n%2535%21n%2536%21n%2537%21n%2538%21n%2539%21n%2540%21n%0A,400,Bad Request,7,142,465
+2856,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/ZAP+%251%21s%252%21s%253%21s%254%21s%255%21s%256%21s%257%21s%258%21s%259%21s%2510%21s%2511%21s%2512%21s%2513%21s%2514%21s%2515%21s%2516%21s%2517%21s%2518%21s%2519%21s%2520%21s%2521%21n%2522%21n%2523%21n%2524%21n%2525%21n%2526%21n%2527%21n%2528%21n%2529%21n%2530%21n%2531%21n%2532%21n%2533%21n%2534%21n%2535%21n%2536%21n%2537%21n%2538%21n%2539%21n%2540%21n%0A,404,Not Found,8,106,0
+2857,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,137,91
+2858,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/ZAP+%251%21s%252%21s%253%21s%254%21s%255%21s%256%21s%257%21s%258%21s%259%21s%2510%21s%2511%21s%2512%21s%2513%21s%2514%21s%2515%21s%2516%21s%2517%21s%2518%21s%2519%21s%2520%21s%2521%21n%2522%21n%2523%21n%2524%21n%2525%21n%2526%21n%2527%21n%2528%21n%2529%21n%2530%21n%2531%21n%2532%21n%2533%21n%2534%21n%2535%21n%2536%21n%2537%21n%2538%21n%2539%21n%2540%21n%0A,404,Not Found,9,106,0
+2859,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,19,133,264
+2860,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,137,91
+2861,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2862,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+2863,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2864,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2865,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2866,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,133,157
+2867,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,86
+2868,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,269
+2869,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,138,168
+2870,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,75
+2871,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,138,280
+2872,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2873,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+2874,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2875,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2876,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,75
+2877,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2878,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2879,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2880,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,70
+2881,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,152
+2882,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,264
+2883,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2884,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2885,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2886,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081,404,Not Found,2,228,89
+2887,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,5,228,91
+2888,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,138,143
+2889,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,133,122
+2890,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+2891,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,5,106,0
+2892,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,138,150
+2893,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/Set-cookie%3A+Tamper%3Df4743e06-17ec-49e3-960d-795884c6f3e5,400,Bad Request,6,142,166
+2894,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,133,129
+2895,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/Set-cookie%3A+Tamper%3D26798a43-f3d6-4470-9d81-6ef433b23c22,404,Not Found,8,106,0
+2896,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/Set-cookie%3A+Tamper%3D79c253b7-ef53-4e74-b49d-c55ec87d41cc,404,Not Found,6,106,0
+2897,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,138,151
+2898,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/any%0D%0ASet-cookie%3A+Tamper%3Df4743e06-17ec-49e3-960d-795884c6f3e5,400,Bad Request,6,142,175
+2899,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%0D%0ASet-cookie%3A+Tamper%3D26798a43-f3d6-4470-9d81-6ef433b23c22,404,Not Found,6,106,0
+2900,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%0D%0ASet-cookie%3A+Tamper%3D79c253b7-ef53-4e74-b49d-c55ec87d41cc,404,Not Found,7,106,0
+2901,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,148
+2902,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/any%3F%0D%0ASet-cookie%3A+Tamper%3Df4743e06-17ec-49e3-960d-795884c6f3e5,400,Bad Request,6,142,178
+2903,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%3F%0D%0ASet-cookie%3A+Tamper%3D26798a43-f3d6-4470-9d81-6ef433b23c22,404,Not Found,6,106,0
+2904,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,133,130
+2905,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%3F%0D%0ASet-cookie%3A+Tamper%3D79c253b7-ef53-4e74-b49d-c55ec87d41cc,404,Not Found,7,106,0
+2906,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/any%0ASet-cookie%3A+Tamper%3Df4743e06-17ec-49e3-960d-795884c6f3e5,400,Bad Request,6,142,172
+2907,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%0ASet-cookie%3A+Tamper%3D26798a43-f3d6-4470-9d81-6ef433b23c22,404,Not Found,16,106,0
+2908,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,21,138,149
+2909,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%0ASet-cookie%3A+Tamper%3D79c253b7-ef53-4e74-b49d-c55ec87d41cc,404,Not Found,16,106,0
+2910,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/any%3F%0ASet-cookie%3A+Tamper%3Df4743e06-17ec-49e3-960d-795884c6f3e5,400,Bad Request,15,142,175
+2911,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,23,133,127
+2912,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%3F%0ASet-cookie%3A+Tamper%3D26798a43-f3d6-4470-9d81-6ef433b23c22,404,Not Found,6,106,0
+2913,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%3F%0ASet-cookie%3A+Tamper%3D79c253b7-ef53-4e74-b49d-c55ec87d41cc,404,Not Found,6,106,0
+2914,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/any%0D%0ASet-cookie%3A+Tamper%3Df4743e06-17ec-49e3-960d-795884c6f3e5%0D%0A,400,Bad Request,6,142,181
+2915,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,154
+2916,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%0D%0ASet-cookie%3A+Tamper%3D26798a43-f3d6-4470-9d81-6ef433b23c22%0D%0A,404,Not Found,6,106,0
+2917,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%0D%0ASet-cookie%3A+Tamper%3D79c253b7-ef53-4e74-b49d-c55ec87d41cc%0D%0A,404,Not Found,6,106,0
+2918,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/any%3F%0D%0ASet-cookie%3A+Tamper%3Df4743e06-17ec-49e3-960d-795884c6f3e5%0D%0A,400,Bad Request,6,142,184
+2919,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%3F%0D%0ASet-cookie%3A+Tamper%3D26798a43-f3d6-4470-9d81-6ef433b23c22%0D%0A,404,Not Found,5,106,0
+2920,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,155
+2921,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,133,128
+2922,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/any%3F%0D%0ASet-cookie%3A+Tamper%3D79c253b7-ef53-4e74-b49d-c55ec87d41cc%0D%0A,404,Not Found,5,106,0
+2923,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2924,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,133
+2925,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2926,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2927,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,134
+2928,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+2929,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,127
+2930,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2931,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,134
+2932,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,91
+2933,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,6,137,91
+2934,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,135
+2935,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2936,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2937,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2938,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,133,132
+2939,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2940,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2941,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2942,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,133,133
+2943,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2944,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,138,138
+2945,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,133,138
+2946,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,6,138,145
+2947,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,139
+2948,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,138,146
+2949,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,138,143
+2950,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,75
+2951,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,138,144
+2952,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+2953,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,138,149
+2954,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,75
+2955,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,138,150
+2956,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2957,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2958,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+2959,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2960,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2961,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2962,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,132,75
+2963,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2964,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2965,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,75
+2966,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+2967,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2968,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2969,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2970,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2971,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2972,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2973,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2974,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,122
+2975,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,129
+2976,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,130
+2977,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,133,127
+2978,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,128
+2979,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,133,133
+2980,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,133,134
+2981,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,5,142,101
+2982,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2983,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2984,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2985,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2986,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+2987,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+2988,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+2989,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+2990,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,6,228,91
+2991,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+2992,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+2993,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,91
+2994,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,6,106,0
+2995,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,71
+2996,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,8,106,0
+2997,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,11,137,91
+2998,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,10,106,0
+2999,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,19,134,3287
+3000,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,12,137,91
+3001,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,17,132,67
+3002,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/,404,Not Found,6,229,105
+3003,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,18,137,91
+3004,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/,404,Not Found,6,229,105
+3005,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,26,132,68
+3006,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/%40,400,Bad Request,6,142,110
+3007,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/%2B,400,Bad Request,14,142,110
+3008,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/%00,400,Bad Request,19,142,110
+3009,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,34,132,68
+3010,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,GET,http://localhost:8081/v1/product/type/%7C,400,Bad Request,8,142,110
+3011,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,18,132,73
+3012,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,68
+3013,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,75
+3014,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,76
+3015,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,72
+3016,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,73
+3017,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,73
+3018,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,78
+3019,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,73
+3020,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,75
+3021,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,75
+3022,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,75
+3023,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,75
+3024,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,75
+3025,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,75
+3026,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:51 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,75
+3027,Tue Jul 30 21:12:51 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,75
+3028,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,75
+3029,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,75
+3030,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+3031,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+3032,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,9,132,75
+3033,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+3034,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,75
+3035,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,71
+3036,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,67
+3037,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,68
+3038,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,132,68
+3039,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,73
+3040,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,8,132,68
+3041,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,7,132,75
+3042,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+3043,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+3044,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,3,142,101
+3045,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,2,142,101
+3046,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,2,142,101
+3047,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,400,Bad Request,4,142,101
+3048,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081,404,Not Found,4,228,89
+3049,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,5,228,91
+3050,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/trace.axd,404,Not Found,18,273,101
+3051,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/elmah.axd,404,Not Found,48,272,98
+3052,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/trace.axd,404,Not Found,47,273,101
+3053,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/trace.axd,404,Not Found,47,272,98
+3054,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/trace.axd,404,Not Found,52,273,101
+3055,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,46,175,108
+3056,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,4,106,0
+3057,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/trace.axd,404,Not Found,5,106,0
+3058,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/trace.axd,400,Bad Request,5,186,116
+3059,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081,404,Not Found,2,228,89
+3060,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/.htaccess,404,Not Found,5,273,101
+3061,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,5,228,91
+3062,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.htaccess,404,Not Found,8,272,98
+3063,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,27,175,108
+3064,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,8,106,0
+3065,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/.htaccess,400,Bad Request,3,186,116
+3066,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/.htaccess,404,Not Found,6,106,0
+3067,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081,404,Not Found,2,228,89
+3068,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/.env,404,Not Found,5,272,96
+3069,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,6,228,91
+3070,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.env,404,Not Found,7,272,93
+3071,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,4,175,108
+3072,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,5,106,0
+3073,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/.env,400,Bad Request,7,186,111
+3074,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/.env,404,Not Found,7,106,0
+3075,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/lfm.php,404,Not Found,5,272,96
+3076,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081,404,Not Found,9,228,89
+3077,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.idea/WebServers.xml,404,Not Found,7,229,109
+3078,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/actuator/health,404,Not Found,13,229,107
+3079,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,5,228,91
+3080,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+3081,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/config/databases.yml,404,Not Found,7,229,109
+3082,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/actuator/health,404,Not Found,7,229,107
+3083,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,12,106,0
+3084,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/config/database.yml,404,Not Found,10,229,108
+3085,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,36,137,89
+3086,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.git/config,404,Not Found,11,229,100
+3087,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3C,404,Not Found,10,106,0
+3088,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,39,132,68
+3089,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/%3C,400,Bad Request,10,142,110
+3090,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3C,404,Not Found,14,106,0
+3091,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E,400,Bad Request,5,142,185
+3092,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E,404,Not Found,12,106,0
+3093,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/system-property%28%27xsl%3Avendor%27%29%2F%3E,400,Bad Request,6,142,152
+3094,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E,404,Not Found,7,106,0
+3095,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,15,138,144
+3096,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.svn/entries,404,Not Found,18,229,101
+3097,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/%22%2F%3E%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E%3C%21--,400,Bad Request,6,142,202
+3098,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/system-property%28%27xsl%3Avendor%27%29%2F%3E,404,Not Found,8,106,0
+3099,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/system-property%28%27xsl%3Avendor%27%29%2F%3E,404,Not Found,9,106,0
+3100,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E%3C%21--,400,Bad Request,6,142,193
+3101,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.svn/wc.db,404,Not Found,6,272,99
+3102,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,25,133,123
+3103,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%22%2F%3E%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E%3C%21--,404,Not Found,7,106,0
+3104,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/%3Cxsl%3Avalue-of+select%3D%22document%28%27http%3A%2F%2Flocalhost%3A22%27%29%22%2F%3E,400,Bad Request,5,142,193
+3105,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/CVS/root,404,Not Found,8,228,97
+3106,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%22%2F%3E%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E%3C%21--,404,Not Found,16,106,0
+3107,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,25,138,119
+3108,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E%3C%21--,404,Not Found,10,106,0
+3109,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/%3Cxsl%3Avariable+name%3D%22rtobject%22+select%3D%22runtime%3AgetRuntime%28%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22process%22+select%3D%22runtime%3Aexec%28%24rtobject%2C%27erroneous_command%27%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22waiting%22+select%3D%22process%3AwaitFor%28%24process%29%22%2F%3E%0A%3Cxsl%3Avalue-of+select%3D%22%24process%22%2F%3E,400,Bad Request,7,142,462
+3110,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E%3C%21--,404,Not Found,6,106,0
+3111,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/%3Cxsl%3Avalue-of+select%3D%22php%3Afunction%28%27exec%27%2C%27erroneous_command+2%3E%26amp%3B1%27%29%22%2F%3E,400,Bad Request,6,142,217
+3112,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/server-status,404,Not Found,12,229,102
+3113,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3Cxsl%3Avalue-of+select%3D%22document%28%27http%3A%2F%2Flocalhost%3A22%27%29%22%2F%3E,404,Not Found,8,106,0
+3114,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,22,132,98
+3115,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3Cxsl%3Avalue-of+select%3D%22document%28%27http%3A%2F%2Flocalhost%3A22%27%29%22%2F%3E,404,Not Found,8,106,0
+3116,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,17,138,152
+3117,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/core,404,Not Found,8,228,93
+3118,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3Cxsl%3Avariable+name%3D%22rtobject%22+select%3D%22runtime%3AgetRuntime%28%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22process%22+select%3D%22runtime%3Aexec%28%24rtobject%2C%27erroneous_command%27%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22waiting%22+select%3D%22process%3AwaitFor%28%24process%29%22%2F%3E%0A%3Cxsl%3Avalue-of+select%3D%22%24process%22%2F%3E,404,Not Found,8,106,0
+3119,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3Cxsl%3Avariable+name%3D%22rtobject%22+select%3D%22runtime%3AgetRuntime%28%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22process%22+select%3D%22runtime%3Aexec%28%24rtobject%2C%27erroneous_command%27%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22waiting%22+select%3D%22process%3AwaitFor%28%24process%29%22%2F%3E%0A%3Cxsl%3Avalue-of+select%3D%22%24process%22%2F%3E,404,Not Found,5,106,0
+3120,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/sftp-config.json,404,Not Found,8,229,105
+3121,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3Cxsl%3Avalue-of+select%3D%22php%3Afunction%28%27exec%27%2C%27erroneous_command+2%3E%26amp%3B1%27%29%22%2F%3E,404,Not Found,4,106,0
+3122,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/%3Cxsl%3Avalue-of+select%3D%22php%3Afunction%28%27exec%27%2C%27erroneous_command+2%3E%26amp%3B1%27%29%22%2F%3E,404,Not Found,5,106,0
+3123,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,138,148
+3124,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,133,131
+3125,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/WS_FTP.ini,404,Not Found,6,272,99
+3126,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,138,146
+3127,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,127
+3128,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/ws_ftp.ini,404,Not Found,6,272,99
+3129,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,138,350
+3130,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/WS_FTP.INI,404,Not Found,6,272,99
+3131,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,125
+3132,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,138,164
+3133,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/filezilla.xml,404,Not Found,5,229,102
+3134,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/sitemanager.xml,404,Not Found,5,229,104
+3135,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+3136,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,329
+3137,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/FileZilla.xml,404,Not Found,5,229,102
+3138,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,91
+3139,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/winscp.ini,404,Not Found,6,272,99
+3140,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,143
+3141,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,91
+3142,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/WinSCP.ini,404,Not Found,9,272,99
+3143,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,73
+3144,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.DS_Store,404,Not Found,6,272,98
+3145,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+3146,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.php_cs.cache,404,Not Found,6,273,102
+3147,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,10,133,128
+3148,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/DEADJOE,404,Not Found,5,228,96
+3149,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/sites/default/private/files/backup_migrate/scheduled/test.txt,404,Not Found,6,229,150
+3150,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,103
+3151,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/app/etc/local.xml,404,Not Found,6,229,106
+3152,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/server.key,404,Not Found,8,272,99
+3153,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,133,136
+3154,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/privatekey.key,404,Not Found,5,273,103
+3155,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/myserver.key,404,Not Found,6,273,101
+3156,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/key.pem,404,Not Found,5,272,96
+3157,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/id_rsa,404,Not Found,6,228,95
+3158,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/id_dsa,404,Not Found,6,228,95
+3159,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.ssh/id_rsa,404,Not Found,6,229,100
+3160,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.ssh/id_dsa,404,Not Found,5,229,100
+3161,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/adminer.php,404,Not Found,7,273,100
+3162,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/vb_test.php,404,Not Found,6,273,100
+3163,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/CHANGELOG.txt,404,Not Found,5,229,102
+3164,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/sites/default/files/.ht.sqlite,404,Not Found,5,273,119
+3165,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/composer.json,404,Not Found,5,229,102
+3166,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/composer.lock,404,Not Found,6,273,102
+3167,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/vim_settings.xml,404,Not Found,5,229,105
+3168,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/server-info,404,Not Found,6,229,100
+3169,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/phpinfo.php,404,Not Found,6,273,100
+3170,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/info.php,404,Not Found,6,272,97
+3171,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/i.php,404,Not Found,5,272,94
+3172,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/test.php,404,Not Found,5,272,97
+3173,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/_wpeprivate/config.json,404,Not Found,6,229,112
+3174,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/_framework/blazor.boot.json,404,Not Found,5,229,116
+3175,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.hg,404,Not Found,8,272,92
+3176,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/.bzr,404,Not Found,7,272,93
+3177,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/._darcs,404,Not Found,7,272,96
+3178,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/BitKeeper,404,Not Found,6,228,98
+3179,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+3180,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,6,228,91
+3181,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,2,175,108
+3182,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,6,106,0
+3183,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+3184,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,9,152,111
+3185,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081,404,Not Found,6,228,89
+3188,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,11,228,91
+3189,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,18,137,91
+3191,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,11,175,108
+3192,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,10,228,91
+3194,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081,404,Not Found,8,228,89
+3196,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,5,175,108
+3198,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,38,132,75
+3199,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,19,152,111
+3201,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,17,106,0
+3202,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,5,106,0
+3203,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,6,106,0
+3204,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,17,132,75
+3205,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,3,106,0
+3206,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,4,106,0
+3207,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,7,106,0
+3208,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,11,106,0
+3209,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,22,134,3282
+3211,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,7,106,0
+3212,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,5,106,0
+3213,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,17,132,75
+3214,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,4,106,0
+3215,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,3,106,0
+3216,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,4,106,0
+3217,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,4,106,0
+3218,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,4,106,0
+3219,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+3220,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,3,106,0
+3221,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,4,106,0
+3222,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,4,106,0
+3223,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,4,106,0
+3224,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,4,106,0
+3225,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,11,132,75
+3226,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,91
+3228,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,4,106,0
+3229,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,4,106,0
+3230,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,5,106,0
+3231,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+3233,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,8,106,0
+3234,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,9,228,91
+3235,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,5,106,0
+3237,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,14,132,75
+3238,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/id,404,Not Found,4,106,0
+3239,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,3,152,111
+3240,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,4,175,108
+3243,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+3244,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,15,132,75
+3245,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,12,134,3282
+3247,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+3248,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,18,132,75
+3249,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,16,137,91
+3251,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,13,132,75
+3252,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+3254,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,PUT,http://localhost:8081/v1/product,200,OK,12,132,75
+3255,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,7,228,91
+3257,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,3,152,111
+3258,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+3261,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,18,134,3282
+3263,Tue Jul 30 21:12:52 BRT 2024,Tue Jul 30 21:12:52 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,22,137,91
+3265,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081,404,Not Found,4,228,89
+3267,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,6,228,91
+3269,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+3270,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,3,152,111
+3273,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,11,134,3282
+3275,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+3277,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081,404,Not Found,2,228,89
+3279,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,5,228,91
+3281,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+3282,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,3,152,111
+3285,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,9,134,3282
+3287,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,8,137,91
+3289,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+3291,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,5,228,91
+3293,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,4,175,108
+3294,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,3,152,111
+3297,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+3299,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,14,134,3282
+3301,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+3303,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,6,228,91
+3305,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,2,175,108
+3306,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,2,152,111
+3309,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,91
+3311,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,11,134,3282
+3313,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081,404,Not Found,2,228,89
+3315,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,4,228,91
+3317,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,3,152,111
+3318,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+3321,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,9,137,91
+3323,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,11,134,3282
+3325,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081,404,Not Found,2,228,89
+3327,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,4,228,91
+3329,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,2,152,111
+3330,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,2,175,108
+3333,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,91
+3335,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,13,134,3282
+3337,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081,404,Not Found,5,228,89
+3339,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,10,228,91
+3341,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,3,152,111
+3342,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+3345,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,10,137,91
+3347,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,12,134,3282
+3349,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081,404,Not Found,3,228,89
+3351,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,5,228,91
+3353,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,DELETE,http://localhost:8081/v1/product,500,Internal Server Error,2,152,111
+3354,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,3,175,108
+3357,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,POST,http://localhost:8081/v1/product,201,Created,7,137,91
+3359,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,10,134,3282
+3361,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,5,228,91
+3363,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,2,175,108
+3365,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type/MAIN,200,OK,9,134,3282
+3367,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081,404,Not Found,2,228,89
+3368,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,4,228,91
+3369,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,2,175,108
+3370,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,4,106,0
+3371,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081,404,Not Found,4,228,89
+3372,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1,404,Not Found,7,228,91
+3373,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product,405,Method Not Allowed,4,175,108
+3374,Tue Jul 30 21:12:53 BRT 2024,Tue Jul 30 21:12:53 BRT 2024,GET,http://localhost:8081/v1/product/type,404,Not Found,16,106,0
