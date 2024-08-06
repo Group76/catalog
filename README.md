@@ -3,6 +3,19 @@ Projeto para lidar com a criação dos produtos, seja eles do tipo lanche, acomp
 
 ### Arquitetura
 
+* ECS
+* MongoDb
+* SNS
+* API Gateway
+* ECR
+
+Basicamente esse projeto irá gravar produtos em um MongoDB (NoSQL) e postar criações e alterações deles no tópico SNS da AWS.
+
+Irá subir a image no ECR pela pipeline e atualizar a task do ECR.
+
+A API Gateway irá redirecionar as chamadas para o ALB e também conta com autorização de token, para permitir somente usuários que possuem autorização.
+
+
 ![Diagram](https://github.com/Group76/catalog/blob/main/docs/catalog.drawio.png)
 
 ### SAGA Pattern
@@ -19,7 +32,7 @@ Para a pipeline funcionar na AWS necessário também configurar no github as sec
 * AWS_ACCESS_KEY_ID
 * AWS_SECRET_ACCESS_KEY
 
-Ou se preferir rodar local é só ter configurado o mongo (pode subir usando o arquivo [docker-compose](https://github.com/Group76/catalog/blob/main/docker-compose.yaml), porém é necessário comentar os envios para o SNS.
+Ou se preferir rodar local é só ter configurado o mongo (pode subir usando o arquivo [docker-compose](https://github.com/Group76/catalog/blob/main/docker-compose.yaml)), porém é necessário comentar os envios para o SNS.
 
 ### OWASP ZAP
 Antes: <https://github.com/Group76/catalog/tree/main/docs/awasp-zap-antes>
