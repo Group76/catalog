@@ -11,7 +11,8 @@ A pattern escolhida foi a coreografada para não ter um serviço fazendo tudo e 
 A coreografia foi feita utilizando o SNS, sendo assim posta as mensagens necessárias nele e lê quem tem o interesse na informação, sendo possível efetuar ações que ache necessário.
 
 ### Como rodar
-Necessário subir a infraestrutura do projeto [AWS Live](https://github.com/Group76/aws-live) e adicionar no Parameter Store a configuração **/config/catalog-api_prod/mongoUri** com o valor da Uri do Mongo.
+Necessário subir a infraestrutura do projeto [AWS Live](https://github.com/Group76/aws-live) e adicionar no Parameter Store a configuração:
+* /config/catalog-api_prod/mongoUri = Valor da Uri do Mongo
 
 ### AWASP ZAP
 Antes: <https://github.com/Group76/catalog/tree/main/docs/awasp-zap-antes>
