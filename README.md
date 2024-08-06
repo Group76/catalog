@@ -14,6 +14,11 @@ A coreografia foi feita utilizando o SNS, sendo assim posta as mensagens necess�
 Necessário subir a infraestrutura do projeto [AWS Live](https://github.com/Group76/aws-live) e adicionar no Parameter Store a configuração:
 * /config/catalog-api_prod/mongoUri = Valor da Uri do Mongo
 
+Após infraestrutura configurada é só rodar a actions que a pipeline irá fazer push da image e atualizar o a task definition da ECS.
+Para a pipeline funcionar na AWS necessário também configurar no github as secrets:
+* AWS_ACCESS_KEY_ID
+* AWS_SECRET_ACCESS_KEY
+
 Ou se preferir rodar local é só ter configurado o mongo (pode subir usando o arquivo [docker-compose](https://github.com/Group76/catalog/blob/main/docker-compose.yaml), porém é necessário comentar os envios para o SNS.
 
 ### AWASP ZAP
