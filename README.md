@@ -21,7 +21,7 @@ Para a pipeline funcionar na AWS necessário também configurar no github as sec
 
 Ou se preferir rodar local é só ter configurado o mongo (pode subir usando o arquivo [docker-compose](https://github.com/Group76/catalog/blob/main/docker-compose.yaml), porém é necessário comentar os envios para o SNS.
 
-### AWASP ZAP
+### OWASP ZAP
 Antes: <https://github.com/Group76/catalog/tree/main/docs/awasp-zap-antes>
 
 Depois: <https://github.com/Group76/catalog/tree/main/docs/awasp-zap-depois>
