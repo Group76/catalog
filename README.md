@@ -14,6 +14,8 @@ A coreografia foi feita utilizando o SNS, sendo assim posta as mensagens necess�
 Necessário subir a infraestrutura do projeto [AWS Live](https://github.com/Group76/aws-live) e adicionar no Parameter Store a configuração:
 * /config/catalog-api_prod/mongoUri = Valor da Uri do Mongo
 
+Ou se preferir rodar local é só ter configurado o mongo (pode subir usando o arquivo [docker-compose](https://github.com/Group76/catalog/blob/main/docker-compose.yaml), porém é necessário comentar os envios para o SNS.
+
 ### AWASP ZAP
 Antes: <https://github.com/Group76/catalog/tree/main/docs/awasp-zap-antes>
 
